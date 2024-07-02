@@ -1,7 +1,3 @@
-# 💫 About Me:
-<br>🙋‍♂️ Hello! My name is Gonzalo.<br>👨‍💻 I am a FullStack Developer actively seeking job opportunities.<br>💼 You can explore all my projects; the code is available here.<br>👨‍🎨 Additionally, I am the designer of all my web pages.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gonzaloadami/) 
 
